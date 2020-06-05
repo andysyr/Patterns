@@ -49,7 +49,7 @@ private:
 };
 
 
-void Behavioral_patterns()
+void Behavioral_patterns_part1()
 {
     B_Position *dir = new Director();
     B_Position *man = new Manager();
